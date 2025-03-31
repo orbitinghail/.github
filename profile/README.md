@@ -1,6 +1,6 @@
 # Hi there 👋
 
-orbitinghail explores simpler, smarter ways to manage data across apps and the edge. We're building [SQLSync], an offline-first SQLite wrapper that syncs web app state seamlessly across users, devices, and edge environments.
+orbitinghail explores simpler, smarter ways to manage data across apps and the edge. We're building [SQLSync], an offline-first SQLite wrapper that syncs web app state seamlessly across users, devices, and edge environments. We're also developing [Graft], a transactional page storage engine built on object storage, designed for scalable lazy partial replication.
 
 ### Community & Contributing
 
@@ -10,4 +10,5 @@ Interested in contributing or getting involved? [Join our Discord community][dis
 
 
 [SQLSync]: https://github.com/orbitinghail/sqlsync
+[Graft]: https://github.com/orbitinghail/graft
 [discord]: https://discord.gg/etFk2N9nzC
