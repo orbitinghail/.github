@@ -1,3 +1,13 @@
+<div align="center">
+  <a href="https://sqlsync.dev">
+    <picture>
+      <source width="240" alt="Orbitinghail" media="(prefers-color-scheme: light)" srcset="orbitinghail-light.svg" />
+      <source width="240" alt="Orbitinghail" media="(prefers-color-scheme: dark)" srcset="orbitinghail-dark.svg" />
+      <img width="240" alt="Orbitinghail" src="orbitinghail-dark.svg" />
+    </picture>
+  </a>
+</div>
+
 # Hi there 👋
 
 orbitinghail explores simpler, smarter ways to manage data across apps and the edge. We're building [SQLSync], an offline-first SQLite wrapper that syncs web app state seamlessly across users, devices, and edge environments. We're also developing [Graft], a transactional page storage engine built on object storage, designed for scalable lazy partial replication.
