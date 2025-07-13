@@ -1,11 +1,9 @@
 <div align="center">
-  <a href="https://sqlsync.dev">
-    <picture>
-      <source width="240" alt="Orbitinghail" media="(prefers-color-scheme: light)" srcset="orbitinghail-light.svg" />
-      <source width="240" alt="Orbitinghail" media="(prefers-color-scheme: dark)" srcset="orbitinghail-dark.svg" />
-      <img width="240" alt="Orbitinghail" src="orbitinghail-dark.svg" />
-    </picture>
-  </a>
+  <picture>
+    <source width="240" alt="Orbitinghail" media="(prefers-color-scheme: light)" srcset="orbitinghail-light.svg" />
+    <source width="240" alt="Orbitinghail" media="(prefers-color-scheme: dark)" srcset="orbitinghail-dark.svg" />
+    <img width="240" alt="Orbitinghail" src="orbitinghail-dark.svg" />
+  </picture>
 </div>
 
 # Hi there 👋
